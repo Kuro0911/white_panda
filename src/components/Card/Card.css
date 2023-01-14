@@ -1,0 +1,45 @@
+.card{
+    margin: 1em;
+    border-radius: 1em;
+    width: 60%;
+    display: flex;
+    height: 8em;
+    box-shadow: 2px 2px 2px 2px grey;
+}
+.car-img{
+    height: 8em;
+    border-radius: 1em 0 0 1em;
+}
+.text-wrap{
+    display: flex;
+    align-items: center;
+    color: grey;
+}
+.center {
+    width: 45%;
+    padding: 0.75em;
+    display: flex;
+    justify-content: space-between;
+}
+.right {
+    width:30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.car-name{
+    font-size: large;
+    font-weight: 300;
+    text-transform: capitalize;
+}
+
+.wrap{
+    display: flex;
+    width: 50%;
+}
+.car-details {
+    font-size: medium;
+    font-weight: 300;
+    margin-right: 4em;
+    text-transform: capitalize;
+}
