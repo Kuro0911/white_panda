@@ -1,0 +1,13 @@
+.details{
+    margin: 4em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.details-container{
+    width: 80%;
+}
+.details-text{
+    font-size: large;
+    font-weight: 400;
+}

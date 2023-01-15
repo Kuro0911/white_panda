@@ -43,3 +43,19 @@
     margin-right: 4em;
     text-transform: capitalize;
 }
+.large{
+    height: 20em;
+    width: 80%;
+}
+.large-img{
+    height: 20em;
+}
+.large-name{
+    font-size: xx-large;
+}
+.hidden{
+    display: none;
+}
+.large-center{
+    flex-direction: column;
+}
