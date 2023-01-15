@@ -34,7 +34,7 @@ export const MOCK_DATA = [
     type: "Petrol",
     engine: "1.2 Kappa Dual VTVT BS6 Petrol Engine",
     about:
-      "The Hyundai i10 is a city car produced by the South Korean manufacturer Hyundai since 2007. It replaced the Hyundai Atos in the model line-up, and was initially available only as a five-door hatchback body style. The third generation i10 was unveiled in India on 7 August 2019 and launched on 20 August 2019, offered in 10 variants across petrol and diesel engines as well as manual and automatic transmissions. There is also a sedan derivative, the Hyundai Xcent and the Hyundai Aura",
+      "The Honda Civic has 1 Diesel Engine and 1 Petrol Engine on offer. The Diesel engine is 1597 cc while the Petrol engine is 1799 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the Civic has a mileage of 16.5 to 26.8 kmpl . The Civic is a 5 seater 4 cylinder car and has length of 4656 mm, width of 1799 mm and a wheelbase of 2700 mm.",
   },
   {
     name: "Volkswagen GTI",
@@ -48,9 +48,9 @@ export const MOCK_DATA = [
     booking_details: {},
     vehicle_number: "XY AAA 3224",
     type: "Petrol",
-    engine: "1.2 Kappa Dual VTVT BS6 Petrol Engine",
+    engine: "VOLKSWAGEN Golf GTI Engines",
     about:
-      "The Hyundai i10 is a city car produced by the South Korean manufacturer Hyundai since 2007. It replaced the Hyundai Atos in the model line-up, and was initially available only as a five-door hatchback body style. The third generation i10 was unveiled in India on 7 August 2019 and launched on 20 August 2019, offered in 10 variants across petrol and diesel engines as well as manual and automatic transmissions. There is also a sedan derivative, the Hyundai Xcent and the Hyundai Aura",
+      "The Volkswagen Golf GTI pioneered the hot-hatchback genre and now, after decades of existence, it is still the whipped cream atop this sundae of delectable, fun-to-drive compact machines. The GTI was redesigned for the 2022 model year, complete with updated styling and more modern interior features, but it still possesses the fun-to-drive nature that makes it a performance icon. A turbocharged, 2.0-liter, 241-hp four-cylinder is under the hood and powers the front wheels through either a seven-speed automatic or—our choice—a six-speed manual transmission. Its cabin is spacious in both the front and the back and, like every GTI since the nameplate’s inception, there’s plenty of room for cargo under the hatchback door. Whether you are new to speedy boxes-on-wheels or have been a faithful GTI fan since the early days, this latest rendition is as fun-loving as when the original first arrived on these shores.",
   },
   {
     name: "Kia K5",
@@ -66,6 +66,6 @@ export const MOCK_DATA = [
     type: "Petrol",
     engine: "1.2 Kappa Dual VTVT BS6 Petrol Engine",
     about:
-      "The Hyundai i10 is a city car produced by the South Korean manufacturer Hyundai since 2007. It replaced the Hyundai Atos in the model line-up, and was initially available only as a five-door hatchback body style. The third generation i10 was unveiled in India on 7 August 2019 and launched on 20 August 2019, offered in 10 variants across petrol and diesel engines as well as manual and automatic transmissions. There is also a sedan derivative, the Hyundai Xcent and the Hyundai Aura",
+      "The Kia K5, formerly known as the Kia Optima, is a mid-size car manufactured by Kia since 2000 and marketed globally through various nameplates. First generation cars were mostly marketed as the Optima, although the Kia Magentis name was used in Europe and Canada when sales began there in 2002. For the second-generation models, Kia used the Kia Lotze and Kia K5 name for the South Korean market, and the Magentis name globally, except in the United States, Canada and Malaysia, where the Optima name was retained until the 2021 model year. ",
   },
 ];

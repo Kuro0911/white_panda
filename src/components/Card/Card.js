@@ -3,8 +3,10 @@ import "./Card.css";
 import ColorizeIcon from "@mui/icons-material/Colorize";
 import AirlineSeatReclineNormalIcon from "@mui/icons-material/AirlineSeatReclineNormal";
 import Button from "@mui/material/Button";
+import { useNavigate } from "react-router-dom";
 
 function Card({ car, large }) {
+  const navigate = useNavigate();
   return (
     <div className={`card ${large ? "large" : ""}`}>
       <div className="left">
@@ -37,6 +39,7 @@ function Card({ car, large }) {
           variant="contained"
           style={{ marginRight: "1em" }}
           disabled={car.booked}
+          onClick={() => navigate(`/book/${car.id}`)}
         >
           Book Now
         </Button>

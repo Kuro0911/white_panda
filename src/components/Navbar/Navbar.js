@@ -4,7 +4,9 @@ import carLogo from "../../utils/images/carlogo.jpg";
 function Navbar() {
   return (
     <div className="navbar">
-      <img src={carLogo} alt="" className="logo" />
+      <a href="/">
+        <img src={carLogo} alt="" className="logo" />
+      </a>
     </div>
   );
 }
